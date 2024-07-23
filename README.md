@@ -3,11 +3,6 @@
 ## 👀 About Me
 I'm passionate about learning new technologies and building web applications. Currently, I am diving deep into graphic design and React.js. I enjoy the process of bringing ideas to life through coding and design.
 
-## 🌱 What I'm Learning
-- **Graphic Design**
-- **React.js**
-- **Advanced JavaScript**
-
 ## 💼 Skills
 - HTML
 - CSS
