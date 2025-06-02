@@ -38,7 +38,7 @@ I’m mastering how to integrate **AI** into daily tasks like:
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/></a>
 <a href="https://react.dev/" title="ReactJS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/></a>
-<a href="https://nextjs.org/" title="Next.js"><img width="50" height="50" src="https://cdn.brandfetch.io/id2alue-rx/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" style="border-radius: 50%;"/></a>
+<a href="https://nextjs.org/" title="Next.js"><img width="50" height="50" src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/idqNI71Hra.svg?c=1dxbfHSJFAPEGdCLU4o5B"/></a>
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50"/></a>
 <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/></a>
 <a href="https://www.java.com/" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/></a>
@@ -50,14 +50,14 @@ I’m mastering how to integrate **AI** into daily tasks like:
 
 <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/></a>
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50"/></a>
-<a href="https://figma.com/" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50"/></a>
-<a href="https://vercel.com/" title="Vercel"><img src="https://cdn.brandfetch.io/idDpCfN4VD/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="50" style="border-radius: 10pz;"/></a>
+<a href="https://figma.com/" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50"/></a
 <a href="https://notion.so/" title="Notion"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" height="50"/></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/></a>
 <a href="https://www.eclipse.org/" title="Eclipse IDE"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" height="50"/></a>
 <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="https://img.icons8.com/color/48/000000/power-bi.png" height="50"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="50"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server" title="SQL Server"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="50"/></a>
+<a href="https://vercel.com/" title="Vercel"><img src="https://cdn.brandfetch.io/idDpCfN4VD/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="50"/></a>
 
 ---
 
