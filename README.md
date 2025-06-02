@@ -51,7 +51,7 @@ I’m mastering how to integrate **AI** into daily tasks like:
 <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/></a>
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50"/></a>
 <a href="https://figma.com/" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50"/></a>
-<a href="https://vercel.com/" title="Vercel"><img src="https://cdn.brandfetch.io/idDpCfN4VD/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" style='rounded'/></a>
+<a href="https://vercel.com/" title="Vercel"><img src="https://cdn.brandfetch.io/idDpCfN4VD/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="50" style='border-radius: 10px;'/></a>
 <a href="https://notion.so/" title="Notion"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" height="50"/></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/></a>
 <a href="https://www.eclipse.org/" title="Eclipse IDE"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" height="50"/></a>
