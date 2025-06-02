@@ -56,7 +56,6 @@ I’m mastering how to integrate **AI** into daily tasks like:
 <a href="https://www.eclipse.org/" title="Eclipse IDE"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" height="50"/></a>
 <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="https://img.icons8.com/color/48/000000/power-bi.png" height="50"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="50"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" title="SQL Server"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="50"/></a>
 <a href="https://vercel.com/" title="Vercel"><img src="https://cdn.brandfetch.io/idDpCfN4VD/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40"/></a>
 
 ---
