@@ -7,13 +7,12 @@
 💼 Former Software Engineer Intern @ [Hash8.io](https://www.hash8.io)  
 🌱 Learning: Advanced React, AI-enhanced development workflows  
 🎯 [My Portfolio](https://indhujeyaraman.vercel.app)  
-⚡ Fun fact: I’m turning everyday tools into AI-powered super tools!
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/indhu-jeyaraman-433156257/" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
